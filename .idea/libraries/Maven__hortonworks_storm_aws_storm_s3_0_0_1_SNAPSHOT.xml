@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: hortonworks.storm.aws:storm-s3:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hortonworks/storm/aws/storm-s3/0.0.1-SNAPSHOT/storm-s3-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/hortonworks/storm/aws/storm-s3/0.0.1-SNAPSHOT/storm-s3-0.0.1-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/hortonworks/storm/aws/storm-s3/0.0.1-SNAPSHOT/storm-s3-0.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

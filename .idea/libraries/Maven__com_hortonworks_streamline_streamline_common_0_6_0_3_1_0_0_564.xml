@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hortonworks.streamline:streamline-common:0.6.0.3.1.0.0-564">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hortonworks/streamline/streamline-common/0.6.0.3.1.0.0-564/streamline-common-0.6.0.3.1.0.0-564.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hortonworks/streamline/streamline-common/0.6.0.3.1.0.0-564/streamline-common-0.6.0.3.1.0.0-564-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hortonworks/streamline/streamline-common/0.6.0.3.1.0.0-564/streamline-common-0.6.0.3.1.0.0-564-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

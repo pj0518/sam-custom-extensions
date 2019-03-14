@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sam-custom-extensions.iml" filepath="$PROJECT_DIR$/sam-custom-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sam-custom-processor/sam-custom-processor.iml" filepath="$PROJECT_DIR$/sam-custom-processor/sam-custom-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sam-custom-sink/sam-custom-sink.iml" filepath="$PROJECT_DIR$/sam-custom-sink/sam-custom-sink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sam-custom-sink-s3/sam-custom-sink-s3.iml" filepath="$PROJECT_DIR$/sam-custom-sink-s3/sam-custom-sink-s3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sam-custom-source-kinesis/sam-custom-source-kinesis.iml" filepath="$PROJECT_DIR$/sam-custom-source-kinesis/sam-custom-source-kinesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sam-custom-udf/sam-custom-udf.iml" filepath="$PROJECT_DIR$/sam-custom-udf/sam-custom-udf.iml" />
+    </modules>
+  </component>
+</project>
